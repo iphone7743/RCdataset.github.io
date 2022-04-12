@@ -1,0 +1,30 @@
+# main links
+main:
+  - title: "Introduction"
+    url: /introduction/
+
+  - title: "Platform"
+    url: /platform/
+
+  - title: "Dataset"
+    url: /dataset/
+
+
+
+sidebar-track:
+  - title: "Sample"
+    url: /dataset/sample/
+  - title: "Track A"
+    url: /dataset/track_A/
+  - title: "Track B"
+    url: /dataset/track_B/
+
+
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
