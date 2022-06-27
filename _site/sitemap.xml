@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://mscdataset1.github.io/dataset/</loc>
+<loc>https://rcdataset.github.io/dataset/</loc>
 </url>
 <url>
-<loc>https://mscdataset1.github.io/</loc>
+<loc>https://rcdataset.github.io/</loc>
 </url>
 <url>
-<loc>https://mscdataset1.github.io/introduction/</loc>
+<loc>https://rcdataset.github.io/introduction/</loc>
 </url>
 <url>
-<loc>https://mscdataset1.github.io/platform/</loc>
+<loc>https://rcdataset.github.io/platform/</loc>
 </url>
 <url>
-<loc>https://mscdataset1.github.io/dataset/sample/</loc>
+<loc>https://rcdataset.github.io/dataset/sample/</loc>
 </url>
 <url>
-<loc>https://mscdataset1.github.io/dataset/track_A/</loc>
+<loc>https://rcdataset.github.io/dataset/track_A/</loc>
 </url>
 <url>
-<loc>https://mscdataset1.github.io/dataset/track_B/</loc>
+<loc>https://rcdataset.github.io/dataset/track_B/</loc>
 </url>
 </urlset>
